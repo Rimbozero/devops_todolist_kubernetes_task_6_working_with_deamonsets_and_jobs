@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: curl
-          image: ikulyk404/busyboxplus:curl
+          image: rimbozero/busyboxplus:curl
           command:
             - sh
             - -c
